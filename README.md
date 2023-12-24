@@ -41,5 +41,5 @@ int main(){
 
 <https://github.com/gwak1635>
 
-[꺼무위키 나라]<namu.wiki>
+[꺼무위키 나라](namu.wiki)
 
