@@ -41,5 +41,6 @@ int main(){
 
 <https://github.com/gwak1635>
 
-[꺼무위키 나라](namu.wiki)
+[꺼무위키 나라](http://namu.wiki)
 
+![귀여운 육각펭귄](./images/육각펭귄.png)
